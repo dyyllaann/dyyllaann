@@ -8,6 +8,4 @@ In 2019, I began work as a real estate broker. While working as a broker, I exam
 
 In 2021, I began learning full-stack web development via The Odin Project. The Odin Project is a self-paced, free open source coding curriculum. As an experiential learner, The Odin Project has been immensely valuable in providing a path and building a portfolio. The majority of repos here are from The Odin Project's curriculum, while many of my personal apps are hosted privately. 
 
-At this stage (April 2022), I've developed two React apps, and I've begun learning backend with MongoDB and Express.
-
 My main interests are automation, PropTech, and data. My dream job would be a development role at a PropTech or SaaS company that values creative, collaborative input, that employs my multidisciplinary background, and that makes a positive difference in people's lives. 
