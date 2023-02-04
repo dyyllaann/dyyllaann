@@ -1,10 +1,6 @@
 ### Hi there! I'm Dylan. 👋
 
-I am a graduate of Wenatchee Valley College, where I studied Mathematics and English. While attending, I was a recurring member of the Dean's List, an active member of the Phi Theta Kappa Honor Society, and graduated with a 3.7 GPA. Although I had never taken a credited CS class in college, I began learning Python in my spare time so I could write apps that streamlined my mathemetics courses. 
-
-In 2019, I began work as a real estate broker. I discovered I preferred working behind the scenes and running my business more efficiently. In 2020, I began creating software that would automate some of the repeatable tasks of a real estate transaction using Javascript/HTML/CSS. 
-
-In 2021, I began learning full-stack web development via The Odin Project. The Odin Project is a self-paced, free open source coding curriculum. As an experiential learner, The Odin Project has been immensely valuable in providing a path and building a portfolio. The majority of repos here are from The Odin Project's curriculum, while in-progress MVPs are hosted privately.
+I am a self-taught developer from Washington State and I'm constantly developing my craft! 
 
 - 🔭 I’m currently working on **rebuilding my Date Calculator Chrome Extension for native use with React Native.**
 
