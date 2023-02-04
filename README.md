@@ -6,9 +6,9 @@ In 2019, I began work as a real estate broker. I discovered I preferred working 
 
 In 2021, I began learning full-stack web development via The Odin Project. The Odin Project is a self-paced, free open source coding curriculum. As an experiential learner, The Odin Project has been immensely valuable in providing a path and building a portfolio. The majority of repos here are from The Odin Project's curriculum, while in-progress MVPs are hosted privately.
 
-- 🔭 I’m currently working on **rebuilding a Chrome web extension I built in 2020 as a native Android app.**
+- 🔭 I’m currently working on **rebuilding my Date Calculator Chrome Extension for native use with React Native.**
 
-- 🌱 I’m currently learning **React Native, ML**
+- 📘 I’m currently reading **Clean Code: A Handbook of Agile Software Craftsmanship** by **Robert C. Martin**.
 
 - 👨‍💻 A handful of my projects are available at [http://www.dylanarveson.com](http://www.dylanarveson.com)
 
