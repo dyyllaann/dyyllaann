@@ -1,10 +1,25 @@
 ### Hi there! I'm Dylan. 👋
 
-I am a self-taught developer from Washington State and I'm constantly developing my craft! 
+Full-Stack Developer | Computer Science Student at UW
 
-- 🔭 I’m currently working on **rebuilding my Date Calculator Chrome Extension for native use with React Native.**
+Currently pursuing my bachelor's degree at the Paul G. Allen School of Computer Science & Engineering at University of Washington, where I'm deepening my technical foundation while bringing real-world industry experience to my studies.
 
-- 📘 I’m currently reading **Clean Code: A Handbook of Agile Software Craftsmanship** by **Robert C. Martin**.
+My journey into tech began while working as a real estate agent, where I identified inefficiencies in traditional workflows and taught myself programming to build solutions. This experience gave me invaluable insight into translating business needs into technical requirements—a skill that drives my approach to full-stack development today.
+
+I specialize in creating web applications that solve real problems, with a focus on:
+
+• Workflow automation and process optimization
+• CRM systems and data management solutions
+• User-centric interfaces that enhance productivity
+• Full-stack solutions from concept to deployment
+
+Technical Skills
+Languages: C++, Java, Python, JavaScript (ES6)
+Frontend: React, HTML5, CSS3, Material UI, Bootstrap, Liquid
+Backend: Node.js, Express, MongoDB, Mongoose
+Tools: Git, AWS, VS Code
+
+I'm excited to bring my unique blend of industry experience and technical skills to collaborative teams focused on innovation and creating technology that makes a meaningful impact. Particularly interested in roles where I can contribute to user-centric solutions and drive technological advancement.
 
 - 👨‍💻 A handful of my projects are available at [http://www.dylanarveson.com](http://www.dylanarveson.com)
 
